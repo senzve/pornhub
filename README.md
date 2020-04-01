@@ -1,4 +1,7 @@
-# pornhub-downloader
+# 活动
+免费领取一个月会员
+
+https://cn.pornhub.com/stayhome
 
 # 使用方式
 1.相关配置
@@ -18,7 +21,8 @@ cookie 默认使用空用户的cookie,可自行替换自己的账号cookie,作�
 
 
 # 联系方式
-<img src="img/1.png" width="240" height="84">
+<img src="img/1.png" width="240" height="84">![软件](img/exe.png)
+
 
 当前为普通版本 不支持断点续传功能
 
