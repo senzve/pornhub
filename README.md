@@ -28,7 +28,7 @@ cookie 默认使用空用户的cookie,可自行替换自己的账号cookie,作�
 
 需要**多线程批量下载断点续传**的版本请加
 
-QQ: 2470571458
+**QQ: 2470571458**
 
 # 捐助
 <img src="img/pay.jpg" width="200px" height="300px">
