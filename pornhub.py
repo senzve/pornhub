@@ -36,7 +36,7 @@ class Pornhub():
             item["quality_720p"] = re.findall('"quality_720p":"(.*?)",', html_str)
             if item['quality_720p']:
                 item["quality_720p"] = item["quality_720p"][0].replace('\\', '')
-            item["quality_480p"] = re.findall('"quality_48op":"(.*?)",', html_str)
+            item["quality_480p"] = re.findall('"quality_480p":"(.*?)",', html_str)
             if item['quality_480p']:
                 item["quality_480p"] = item["quality_480p"][0].replace('\\', '')
 
