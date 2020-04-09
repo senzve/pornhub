@@ -54,8 +54,6 @@ download_urls = [
 down_path = "D:/ph/other"
 
 
-# 随机请求头
-# 使用前,填上你的账号cookie
 def random_header():
     return {
         'cookie': "ua=237aa6249591b6a7ad6962bc73492c77; platform_cookie_reset=pc; platform=pc; bs=kkfbi66h9zevjeq5bt27j0rvno182xdl; ss=205462885846193616; RNLBSERVERID=ded6699",
