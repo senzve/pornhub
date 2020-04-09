@@ -1,7 +1,7 @@
 # 活动
 免费领取一个月会员
 
-https://cn.pornhub.com/stayhome
+https://cn.pornhubpremium.com/stayhome
 
 # 使用方式
 1.相关配置
@@ -33,8 +33,3 @@ cookie 默认使用空用户的cookie,可自行替换自己的账号cookie,作�
 # 捐助
 <img src="img/pay.jpg" width="200px" height="300px">
 <img src="img/pay2.jpg" width="200px" height="300px">
-
-# 其他
-短信轰炸机: https://github.com/xilidexiao/sms_boom
-
-![sms](img/sms.png)

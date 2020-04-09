@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import os
-import random
 import re
 import time
 import requests
@@ -24,6 +23,7 @@ class Pornhub():
         self.download_from_url(url, file_path, random_header())
 
     def download_from_url(self, url, filepath, headers):
+        print("开始下载:", filepath)
         with open(filepath, 'wb') as f:
             f.write(requests.get(url, headers).content)
 
