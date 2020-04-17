@@ -16,9 +16,11 @@ cookie 默认使用空用户的cookie,可自行替换自己的账号cookie,作�
 2.下载过程需要翻墙且为全局!!!
 
 # 运行截图
+第一次运行
 ![运行截图](img/test.png)
 
-
+关闭后重新打开,支持继续下载
+![断点截图](img/test2.jpg)
 
 # 联系方式
 <img src="img/1.png" width="240" height="84">![软件](img/exe.png)
@@ -32,7 +34,6 @@ cookie 默认使用空用户的cookie,可自行替换自己的账号cookie,作�
 
 # 捐助
 <img src="img/pay.jpg" width="200px" height="300px">
-<img src="img/pay2.jpg" width="200px" height="300px">
 
 # 其他
 短信轰炸机: https://github.com/xilidexiao/sms_boom
