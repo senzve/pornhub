@@ -48,7 +48,6 @@ class Pornhub():
 download_urls = [
     "https://cn.pornhubpremium.com/view_video.php?viewkey=ph5d1e10cf1f581",
     "https://cn.pornhubpremium.com/view_video.php?viewkey=ph5cf15a5bc7d25",
-    "https://cn.pornhubpremium.com/view_video.php?viewkey=ph5e5e8bf1746db"
 ]
 
 down_path = "D:/ph/other"
