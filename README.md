@@ -14,7 +14,7 @@ https://cn.pornhubpremium.com/stayhome
 <img src="img/1.png" width="240" height="84">![软件](img/exe.png)
 
 
-当前为普通版本 不支持断点续传功能
+当前为样式版本 不支持多线程断点续传功能
 
 需要**多线程批量下载断点续传**的版本请加
 
